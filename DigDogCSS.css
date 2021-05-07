@@ -1,0 +1,109 @@
+body {
+    font-family: 'Itim', cursive;
+}
+h4 {
+    padding: 0px;
+}
+
+input#numBones {
+    border: 2px black solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 25px;
+    width: 100px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+label {
+    font-family: 'Itim', cursive;
+}
+div#header {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 30%;
+}
+
+div#dog2 {
+    background-color: orange;
+    border: 4px darkolivegreen dotted;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+button#play {
+    font-family: 'Itim', cursive;
+    font-weight: bold;
+    background-color: orange;
+    padding: 5px;
+    border: 4px darkolivegreen solid;
+    width: 100px;
+    border-radius: 10px;
+
+}
+div#boneNumber {
+    background-color: yellow;
+    width: 30%;
+    margin: 0 auto;
+}
+
+div#myProgress {
+    width: 200px;
+    height: 15px;
+    background-color: green;
+    margin: 0 auto;
+}
+
+div#myBar {
+    width: 1%;
+    height: 15px;
+    background-color: darkred;
+    text-align: right;
+    font-size: small;
+}
+div#danger {
+    color: darkred;
+    text-align: center;
+    font-weight: bold;
+}
+
+span.green {
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    background-color: darkolivegreen;
+    border: 4px black dotted;
+    padding: 10px;
+    margin: 1px;
+}
+
+span.brown {
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    background-color: #8b4513;
+    border: 4px black dotted;
+    padding: 10px;
+    margin: 1px;
+}
+
+span.bone {
+    background-image: url(dogNbone80x60.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    border: 4px black dotted;
+    padding: 10px;
+    margin: 1px;
+}
+
+
+div#boneNumber {
+    font-weight: bold;
+}
+
+div#game {
+    text-align: center;
+}
