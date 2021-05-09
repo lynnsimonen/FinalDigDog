@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74c10fe0-068d-46c5-8c27-985e9a0f5426" name="Default Changelist" comment="" />
+    <list default="true" id="74c10fe0-068d-46c5-8c27-985e9a0f5426" name="Default Changelist" comment="Final Version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +21,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../../DigDog/DigDogCode.js" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="ProjectId" id="1rjfuBN4ueYhK4UDDlxbBfJaGaL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DigDog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DigDog - FINAL/DigDogCode.js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -66,12 +65,38 @@
       <workItem from="1620220819947" duration="11570000" />
       <workItem from="1620267620693" duration="12375000" />
       <workItem from="1620327228685" duration="9036000" />
-      <workItem from="1620349237275" duration="13127000" />
+      <workItem from="1620349237275" duration="13323000" />
+      <workItem from="1620362795713" duration="199000" />
+      <workItem from="1620600906686" duration="1001000" />
     </task>
+    <task id="LOCAL-00001" summary="Final Version">
+      <created>1620362670676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620362670677</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Version" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
