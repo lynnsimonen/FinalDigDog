@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dig Dog Game</title>
+    <link rel="stylesheet" href="DigDogCSS.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@600&family=Luckiest+Guy&display=swap"
+          rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="header">
+
+        <div id="dog1">
+            <img src="dogNbone80x60.jpg" >
+        </div>
+        <div id="dog2">
+            <h1>Dig Dog</h1>
+        </div>
+        <div id="dog3">
+           <img src="dogNbone80x60.jpg" >
+        </div>
+    </div>
+
+    <div id="game">
+        <h4> <i>Find your buried bones before the Danger-O-Meter shoos you away!.</i></h4>
+
+        <label for="numBones">HOW MANY BONES DID YOUR DOG BURY? (from 3 to 8 bones)</label><br>
+        <input type="number" id="numBones" max="8" min="3" step="1" placeholder="# bones" autofocus><br><br>
+        <button id="play">Play Game</button>
+
+        <br>
+        <div id="danger">Danger-O- Meter</div>
+        <div id="myProgress" >
+            <div id="myBar"></div>
+        </div><br>
+
+        <div id="boneNumber"></div>
+        <br>
+        <br>
+        <p><div id="board"></div></p>
+        <br>
+    </div>
+    <!-- PROGRESS BAR -->
+
+</body>
+<script
+        src="https://code.jquery.com/jquery-3.6.0.js"
+        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+        crossorigin="anonymous"></script>
+<script src="DigDogCode.js"></script>
+</html>
