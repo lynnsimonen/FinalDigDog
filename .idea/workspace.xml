@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74c10fe0-068d-46c5-8c27-985e9a0f5426" name="Default Changelist" comment="Final Version">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="74c10fe0-068d-46c5-8c27-985e9a0f5426" name="Default Changelist" comment="Updated the .js to notify the player that the Danger-O-Meter is over the limit." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +65,7 @@
       <workItem from="1620327228685" duration="9036000" />
       <workItem from="1620349237275" duration="13323000" />
       <workItem from="1620362795713" duration="199000" />
-      <workItem from="1620600906686" duration="1001000" />
+      <workItem from="1620600906686" duration="1303000" />
     </task>
     <task id="LOCAL-00001" summary="Final Version">
       <created>1620362670676</created>
@@ -76,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620362670677</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated the .js to notify the player that the Danger-O-Meter is over the limit.">
+      <created>1620602005046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620602005046</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +101,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final Version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Version" />
+    <MESSAGE value="Updated the .js to notify the player that the Danger-O-Meter is over the limit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the .js to notify the player that the Danger-O-Meter is over the limit." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
